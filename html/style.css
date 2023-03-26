@@ -1,0 +1,55 @@
+body{background-color: black; }
+#titre {color: aliceblue;}
+#titre{ font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+.P1{color: aliceblue;}
+.P1{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+#pink{color:rgb(247, 7, 99)}
+#link{color:rgb(250, 245, 247)}
+.P1{display:inline-block;}
+li {display: inline;}
+#nav1 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(247, 7, 99);
+  }
+  
+  .navliste{
+    float: left;
+  }
+  
+  .navliste a {
+    display: block;
+    color:white;
+    text-align:center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  .navliste a:hover {
+    background-color:rgb(129, 56, 197) ;
+  }
+  .navliste a:visited{
+    color:black;
+  }
+
+.contact{ color: antiquewhite; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+ul{ list-style: none;}
+p{color:antiquewhite; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+.nom{display: inline;}
+.etude{color: antiquewhite;}
+.etude1{display: block;}
+.contact1{display:block}
+.P1{margin-top: 25px;}
+#titre{ line-height: 20px;}
+.P1{line-height: 50px;}
+#imghome {display: inline; margin-left: 200px;}
+#métier{ color:rgb(247, 7, 99) ;}
+.aca{color:rgb(247, 7, 99) ; }
+.contact1{line-height:50px ;}
+a{ text-decoration:none;}
+#link{background-color:rgb(247, 7, 99); border-radius: 25px;}
+
+
